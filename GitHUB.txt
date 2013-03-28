@@ -1,0 +1,27 @@
+Sobre o GitHUB acho que vale a pena o time dar uma lida rápida sobre ele.
+
+Em resumo ele irá nos ajudar a manter o documento versionado de maneira que todos tenham
+as mesmas versões, ele difere do demais pois manter uma cópia exata na maquina de cada um além
+de manter na nuvem, permitir merges especificos. Acho ele de grande valor não só pra isso.
+
+Só temos uma único fator, a conta FREE do git exige que o documento fique disponivel para 
+qualquer pessoa, todos do time estão de acordo ? Tudo bem deixar disponivel ?
+
+Dados do projeto
+
+E-mail: sachainchibr@gmail.com
+Senha: sachasenac
+
+Usuário GtHUB: SachaInchibr
+senha: sachasenac01
+
+Link do projeto no GitHUB (Nuvem): https://github.com/SachaInchiBrasil
+OBS: Já criei o repositório de documentação: https://github.com/SachaInchiBrasil/SachaInchiDoc.git
+Se acessa-lo irá ver como criar o repositório na sua máquina e como enviar documento para ele (Push).
+
+
+Dica de como usar o GitHUB, acredito que todos usam Windows
+
+Baixar e instalar: http://windows.github.com/
+Tutorial: http://blog.dmatoso.com/2011/09/git-no-windows-github/
+
